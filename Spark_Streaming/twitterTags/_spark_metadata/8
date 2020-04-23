@@ -1,0 +1,4 @@
+v1
+{"path":"file:///home/chatdanai/Python-and-Spark-for-Big-Data-master/Spark%20Streaming/twitterTags/part-00000-61932822-ee15-45ff-a8a5-48d609e3cd95-c000.csv","size":144,"isDir":false,"modificationTime":1515252769000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/chatdanai/Python-and-Spark-for-Big-Data-master/Spark%20Streaming/twitterTags/part-00001-ce5e09c7-0c94-4bfd-a890-dd840466151d-c000.csv","size":7,"isDir":false,"modificationTime":1515252769000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///home/chatdanai/Python-and-Spark-for-Big-Data-master/Spark%20Streaming/twitterTags/part-00002-1897ce46-c922-409a-9695-c1d8404963a3-c000.csv","size":13,"isDir":false,"modificationTime":1515252769000,"blockReplication":1,"blockSize":33554432,"action":"add"}

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Nov 24 09:58:27 ICT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015f-ebf6-49c4-000007ea9440 
+on database directory /home/chatdanai/Python-and-Spark-for-Big-Data-master/Python-Crash-Course/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@118c038a 
+Loaded from file:/opt/spark/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-8u151-b12-0ubuntu0.16.04.2-b12
+user.dir=/home/chatdanai/Python-and-Spark-for-Big-Data-master/Python-Crash-Course
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
